@@ -204,7 +204,7 @@
             "isSlider": true,
             "showNumber": false,
             "design": "swiper",
-            "showBackGround": true,
+            "showBackGround": false,
             "autoPlay": false,
             "radius": 20,
             "items": [
