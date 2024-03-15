@@ -203,10 +203,10 @@
             "layout": "bannerImage",
             "isSlider": true,
             "showNumber": false,
-            "design": "default",
+            "design": "swiper",
             "showBackGround": true,
             "autoPlay": false,
-            "radius": 2,
+            "radius": 20,
             "items": [
                 {
                     "image": "https://trello.com/1/cards/5f8fe6093cd3ef24d9ede5f5/attachments/5f8fe62076ec8884a587b043/previews/5f8fe62176ec8884a587b05c/download/Mobile_Template_1b.png",
@@ -223,7 +223,25 @@
                     "padding": 15,
                     "product": 30
                 }
-            ]
+            ],
+            "marginBottom": 0,
+            "height": 0.2,
+            "marginTop": 0,
+            "padding": 0,
+            "enableParallax": false,
+            "parallaxImageRatio": 1.2,
+            "isHorizontal": false,
+            "enableBackground": false,
+            "intervalTime": 3,
+            "isBlur": false,
+            "showBackground": false,
+            "upHeight": 0,
+            "isSoundOn": false,
+            "enableTimeIndicator": true,
+            "autoPlayVideo": false,
+            "doubleTapToFullScreen": false,
+            "pageIndicatorType": "line",
+            "parallax": false
         },
         {
             "showCartIcon": false,
