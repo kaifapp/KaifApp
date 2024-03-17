@@ -31,7 +31,7 @@
             "showShortDescription": true,
             "marginRight": 10,
             "imageSpacing": 0,
-            "spacing": 12,
+            "spacing": 8,
             "gradientStyle": false,
             "radius": 50,
             "labelFontSize": 14,
